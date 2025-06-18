@@ -1,6 +1,6 @@
 #  Harika's Winter Portfolio 
 
-Welcome to my very first portfolio — a cozy, minimalist web space I created in **December 2024**, inspired by winter nights, warm cocoa, and the magical vibes of Christmas 🎄✨. This project marked the beginning of my journey in building personalized digital spaces — and eventually led me to my **Seasonal Portfolio series** 🌸🌧️🍂❄️.
+Welcome to my very first portfolio — a cozy, minimalist web space I created in **December 2024**, inspired by winter nights, warm cocoa, and the magical vibes of Christmas. This project marked the beginning of my journey in building personalized digital spaces — and eventually led me to my **Seasonal Portfolio series** .
 
 ![Screenshot](https://github.com/2200032091/winter_portfolio/blob/main/assets/image1.png)
 
@@ -39,7 +39,6 @@ This portfolio later inspired me to create my **Seasonal Portfolio** (Spring , R
 
 ## 🚀 Live Preview
 
-![Screenshot](https://github.com/2200032091/winter_portfolio/blob/main/assets/image2.png)
 🔗 [Click here to view the live site](https://2200032091.github.io/winter_portfolio/)
 
 ---
