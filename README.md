@@ -6,7 +6,7 @@ Welcome to my very first portfolio — a cozy, minimalist web space I created in
 
 ---
 
-## 🎯 What Is This?
+## What Is This?
 
 A single-page personal portfolio built with **TailwindCSS** and **Vanilla JavaScript**, themed for winter. It includes:
 
@@ -19,7 +19,7 @@ A single-page personal portfolio built with **TailwindCSS** and **Vanilla JavaSc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5 / CSS3 / TailwindCSS
 - JavaScript (Vanilla)
@@ -29,7 +29,7 @@ A single-page personal portfolio built with **TailwindCSS** and **Vanilla JavaSc
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 I built this in December 2024, during the first days of the semester. Between hot chocolate and snowfall music playlists, I wanted a space that reflected my energy at the time — quiet, inspired, and ready to build something of my own.
 
@@ -37,30 +37,31 @@ This portfolio later inspired me to create my **Seasonal Portfolio** (Spring , R
 
 ---
 
-## 🚀 Live Preview
+## Live Preview
 
 🔗 [Click here to view the live site](https://2200032091.github.io/winter_portfolio/)
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - How to use **Tailwind** for custom UI design
 - Writing **reusable animations** in vanilla JavaScript
 - Importance of **visual storytelling** in personal branding
-- How small side projects can spark bigger ideas ✨
+- How small side projects can spark bigger ideas 
 
 ---
 
-## 📌 Status
+## Status
 
-This portfolio is archived (not being updated anymore), but it's still special to me as my *first web presence*. For my current seasonal dynamic portfolio — [click here](https://harika-gorikapudi.vercel.app/)
+I’m no longer updating this one — it's archived — but it’ll always be my *first web presence*. If you’re curious about where I’ve taken things since, check out my latest seasonal portfolio here:
+[click here](https://harika-gorikapudi.vercel.app/)
 
 ---
 
-## 📫 Contact
+## Contact
 
-If you want to connect or collaborate:
+If you want to chat or collaborate, feel free to reach out:
 
 - gharika109@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/harika-gorikapudi)  
@@ -68,4 +69,4 @@ If you want to connect or collaborate:
 
 ---
 
-> “Code it like snow — beautiful, light, and meaningful.” ❄️
+> “Code it like snow — beautiful, light, and meaningful.” 
